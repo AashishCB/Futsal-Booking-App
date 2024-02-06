@@ -136,7 +136,7 @@ export default class FutsalDescription extends Component{
                         <MapViewDirections
                             origin={{longitude: user_longitude, latitude: user_latitude}}
                             destination={{longitude: futsal_longitude, latitude: futsal_latitude}}
-                            apikey="AIzaSyB9DNQaMOpjU8G5gBYxUR5hKjY6aWH_4-0"
+                            apikey=""
                             strokeWidth={4}
                             strokeColor="blue"
                         />
